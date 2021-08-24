@@ -50,7 +50,7 @@ class Solution {
         int num;
     };
 
-    bool static cmp(NumWithIndex a, NumWithIndex b) {
+    bool static cmp(const NumWithIndex &a, const NumWithIndex &b) {
         return a.num < b.num;
     }
 public:
