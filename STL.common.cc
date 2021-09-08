@@ -63,10 +63,20 @@ void binary_search_demo() {
   cout << *nit << endl; // { num: 3, index: 1}
 }
 
+void unordered_map_demo() {
+    unordered_map<char, int> mp = {
+            {'I', 1},
+            {'V', 5}
+    };
+    cout << mp['I'] << " " << mp['V'] << endl;
+}
+
 int main() {
 //  sort_demo();
 
 //  binary_search_demo();
+
+//  unordered_map_demo();
 
   return 0;
 }
