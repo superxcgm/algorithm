@@ -1,6 +1,7 @@
 #include <iostream>
 #include <vector>
 #include <algorithm>
+#include <stack>
 
 using namespace std;
 
@@ -71,12 +72,23 @@ void unordered_map_demo() {
     cout << mp['I'] << " " << mp['V'] << endl;
 }
 
+void stack_demo() {
+    stack<char> st;
+    st.push('(');
+    st.push('[');
+    auto top = st.top(); // top == '[
+    st.pop(); // return void
+
+}
+
 int main() {
 //  sort_demo();
 
 //  binary_search_demo();
 
 //  unordered_map_demo();
+
+  stack_demo();
 
   return 0;
 }
