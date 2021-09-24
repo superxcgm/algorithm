@@ -2,3 +2,4 @@ common
 build/
 .idea
 a.out
+.DS_Store
