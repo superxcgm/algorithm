@@ -2,6 +2,7 @@
 #include <vector>
 #include <algorithm>
 #include <stack>
+#include <queue>
 
 using namespace std;
 
@@ -78,7 +79,16 @@ void stack_demo() {
     st.push('[');
     auto top = st.top(); // top == '[
     st.pop(); // return void
+    cout << top << endl;
+}
 
+void queue_demo() {
+    queue<char> que;
+    que.push('a');
+    que.push('b');
+    auto x = que.front(); // x = a
+    que.pop();
+    cout << x << endl;
 }
 
 int main() {
@@ -88,7 +98,9 @@ int main() {
 
 //  unordered_map_demo();
 
-  stack_demo();
+//  stack_demo();
+
+    queue_demo();
 
   return 0;
 }
