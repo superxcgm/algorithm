@@ -3,3 +3,4 @@ build/
 .idea
 a.out
 .DS_Store
+cmake-build-debug
