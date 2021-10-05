@@ -1,8 +1,8 @@
 # Convert Sorted Array To Binary Search Tree
 
 ## 标签
-分治
-二叉树
+* 分治
+* 二叉树
 
 ## 解法一
 

@@ -1,7 +1,7 @@
 # Search Insert Position
 
 ## 标签
-二分查找
+* 二分查找
 
 ## 解法一
 

@@ -1,7 +1,7 @@
 # Pascals Triangle
 
 ## 标签
-水题目
+* 水题
 
 ## 解法一：
 

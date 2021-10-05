@@ -1,7 +1,7 @@
 # Remove Element
 
 ## 标签
-数组
+* 数组
 
 ## 解法一
 

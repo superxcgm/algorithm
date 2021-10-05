@@ -1,7 +1,7 @@
 # Climbling Stairs
 
 ## 标签
-动态规划
+* 动态规划
 
 ## 解法一
 

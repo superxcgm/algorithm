@@ -1,7 +1,7 @@
 # Binary Tree Inorder Traversal
 
 ## 标签
-二叉树
+* 二叉树
 
 ## 解法一
 

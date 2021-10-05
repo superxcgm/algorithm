@@ -1,7 +1,7 @@
 # Length of Last Word
 
 ## 标签
-水题
+* 水题
 
 ## 解法一
 

@@ -1,7 +1,7 @@
 # Maximum Subarray
 
 ## 标签
-dp
+* 动态规划
 
 ## 解法一
 

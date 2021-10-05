@@ -1,7 +1,7 @@
 # Minimum Depth of Binary Tree
 
 ## 标签
-二叉树
+* 二叉树
 
 ## 解法一：
 

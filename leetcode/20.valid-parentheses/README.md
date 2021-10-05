@@ -1,7 +1,7 @@
 # Valid Parentheses
 
 ## 标签
-栈
+* 栈
 
 ## 解法一
 

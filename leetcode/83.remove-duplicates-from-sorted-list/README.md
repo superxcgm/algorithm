@@ -1,7 +1,7 @@
 # Remove Duplicates From Sorted List
 
 ## 标签
-链表
+* 链表
 
 ## 解法一
 

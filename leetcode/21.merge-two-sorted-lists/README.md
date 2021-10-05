@@ -1,7 +1,7 @@
 # Merge Two Sorted Lists
 
 ## 标签
-链表
+* 链表
 
 ## 解法一
 

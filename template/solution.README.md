@@ -1,9 +1,9 @@
 # {题目名}
 
 ## 标签
-placeholder
+* placeholder
 
-## 解法一：
+## 解法一
 
 ### 时间复杂度
 placeholder

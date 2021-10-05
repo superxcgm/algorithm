@@ -1,7 +1,7 @@
 # Longest Substring Without Repeating Characters
 
 ## 标签
-滑动窗口
+* 滑动窗口
 
 ## 解法一
 
